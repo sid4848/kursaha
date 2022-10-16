@@ -1,0 +1,28 @@
+.ksh__header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem 2rem ;
+}
+
+.ksh__header img {
+    margin: 2rem;
+    width: 750px;
+    height: 500px;
+}
+.ksh__header button a {
+    text-decoration:none;
+    color: #fff;
+}
+
+.ksh__header h1 {
+    width: 815px;
+    height: 148px;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 87px;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: var(--font-family);
+}

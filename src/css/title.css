@@ -1,0 +1,12 @@
+.ksh__title {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem;
+}
+
+.ksh__title button a {
+    color: #fff;
+    text-align: none;
+    font-family: var(--font-family);
+    text-decoration: none;
+}

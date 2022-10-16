@@ -1,0 +1,31 @@
+.ksh__navbar {
+    background: var(--color-navbar);
+    font-family: var(--font-family);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: var(--color-text);
+    padding: 1.2rem 0;
+}
+
+.ksh__navbar-links a {
+    
+    color: var(--color-text);
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
+
+.ksh__navbar-links {
+    display: flex;
+    align-items: center;
+    padding: 0 4rem;
+    /* margin: 0.5rem; */
+}
+
+.ksh__navbar-links:nth-child(3) {
+    border-left: 2px solid #363A44;
+}
+
+
+
+
